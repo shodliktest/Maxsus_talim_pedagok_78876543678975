@@ -1,7 +1,7 @@
 // ===== PAROL TIZIMI =====
 const AUTH_KEY = 'test_authenticated';
 const VALID_CREDENTIALS = {
-    username: 'Pedagog2025',
+    username: 'Inavat2026',
     password: 'Odina1221'
 };
 
