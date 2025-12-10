@@ -2,7 +2,7 @@
 const AUTH_KEY = 'test_authenticated';
 const VALID_CREDENTIALS = {
     username: 'Talimm',
-    password: 'a1221'
+    password: 'a18277273221'
 };
 
 // ===== TEST SAVOLLARI (400 TA) =====
@@ -5347,6 +5347,7 @@ function updateTimer() {
     document.getElementById('timer').textContent = formattedTime;
 
 }
+
 
 
 
