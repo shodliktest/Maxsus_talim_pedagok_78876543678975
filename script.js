@@ -2680,6 +2680,156 @@ const questionsData = [
       "professional ta'lim"
     ],
     correctAnswer: "professional ta'lim"
+  },
+  {
+    question: "Aniq maqsad asosida kishi ongini ma'naviy axloqiy qadriyatlarni shakllantirishga qaratilgan tizimli jarayonga nima deyiladi?",
+    options: ["ta'lim", "tarbiya", "ma'lumot", "ijtimoiy muhit"],
+    correctAnswer: "tarbiya"
+  },
+  {
+    question: "Umumiy o'rta va o'rta maxsus ta'lim bosqichi hamda oliy ta'lim bosqichlarining oralig'ida qanday nomdagi ta'lim turini olish mumkin?",
+    options: [
+      "maktabgacha ta'lim",
+      "oliy ta'limdan keyingi ta'lim",
+      "boshlang'ich ta'lim",
+      "professional ta'lim"
+    ],
+    correctAnswer: "professional ta'lim"
+  },
+  {
+    question: "Jismoniy va aqliy sensor yoki ruhiy nuqsonlari bo'lgan shuningdek uzoq vaqt davolanishda bo'lgan bolalar ta'lim tashkilotlarida qanday shaklda ta'lim olish huquqiga ega",
+    options: ["eksternat", "masofaviy", "inklyuziv", "jamoaviy"],
+    correctAnswer: "inklyuziv"
+  },
+  {
+    question: "Uzluksiz ta'lim turlari necha bosqichni o'z ichiga oladi",
+    options: ["7", "8", "9", "6"],
+    correctAnswer: "7"
+  },
+  {
+    question: "Ta'lim tizimidagi har bir o'quv fanining mazmuni va o'tilish tartibi, o'quvchilar tomonidan o'zlashtirilishi lozim bo'lgan bilim hamda ko'nikmalar hajmini belgilab beradigan rasmiy hujjat qaysi",
+    options: ["o'quv dasturi", "darslik", "dastur", "mualliflik o'quv dasturlari"],
+    correctAnswer: "o'quv dasturi"
+  },
+  {
+    question: "STEAM dasturining mazmuni qaysi qatorda to'g'ri ko'rsatilgan",
+    options: [
+      "matematika tabiiy fanlar muhandislik san'at texnologiya fanlari uyg'unligi",
+      "matematika musiqa tabiiy fanlar muhandislik san'at fanlari uyg'unligi",
+      "matematika musiqa tabiiy fanlar muhandislik fanlari uyg'unligi",
+      "matematika musiqa muhandislik san'at texnologiya fanlari uyg'unligi"
+    ],
+    correctAnswer: "matematika tabiiy fanlar muhandislik san'at texnologiya fanlari uyg'unligi"
+  },
+  {
+    question: "Ta'lim turlarini ketma-ketlik bilan qo'yib chiqing: 1) professional ta'lim; 2) maktabdan tashqari ta'lim; 3) umumiy o'rta va o'rta maxsus ta'lim; 4) oliy ta'limdan keyingi ta'lim; 5) kadrlarni qayta tayyorlash va ularning malakasini oshirish; 6) maktabgacha ta'lim va tarbiya; 7) oliy ta'lim.",
+    options: [
+      "6, 3, 1, 7, 4, 5, 2",
+      "1, 2, 3, 5, 4, 7, 6",
+      "6, 2, 3, 5, 7, 4",
+      "1, 4, 5, 7, 3, 2"
+    ],
+    correctAnswer: "6, 3, 1, 7, 4, 5, 2"
+  },
+  {
+    question: "Yetim bolalarni va ota-onasining yoki boshqa qonuniy vakillarining qaramog'idan mahrum bo'lgan bolalarni o'qitish va ularning to'liq ta'minoti kimning zimmasida bo'ladi",
+    options: [
+      "Homiylik hisobidan",
+      "Ota onalar tomonidan",
+      "O'zbekiston Respublikasi Davlat byudjeti mablag'lari hisobidan",
+      "Tashkilot hisobidan"
+    ],
+    correctAnswer: "O'zbekiston Respublikasi Davlat byudjeti mablag'lari hisobidan"
+  },
+  {
+    question: "2020-yil 23-sentabrda qabul qilingan O'zbekiston Respublikasi ta'lim to'g'risidagi qonuni necha bob va necha moddadan iborat",
+    options: [
+      "11 ta bob, 75 ta modda",
+      "5 bob 34 modda",
+      "11 bob 74 modda",
+      "8 bob 75 modda"
+    ],
+    correctAnswer: "11 bob 74 modda"
+  },
+  {
+    question: "O'quv yilining davomiyligi 1-sinflar uchun necha hafta",
+    options: ["37 hafta", "33 hafta", "35 hafta", "36 hafta"],
+    correctAnswer: "33 hafta"
+  },
+  {
+    question: "Ta'lim olish shaklidan qat'iy nazar bitiruvchilar erishishlari kerak bo'lgan ta'lim darajasini belgilovchi asosiy hujjat bu...",
+    options: ["DTS", "STEAM", "PIRLS", "PISA"],
+    correctAnswer: "DTS"
+  },
+  {
+    question: "Ta'lim to'g'risidagi Qonunga necha marotaba o'zgartirish kiritilgan",
+    options: ["4 marotaba", "2 marotaba", "1 marotaba", "3 marotaba"],
+    correctAnswer: "4 marotaba"
+  },
+  {
+    question: "Qachon 'Professional ta'lim tizimini yanada takomillashtirish to'g'risida'gi farmon qabul qilindi",
+    options: [
+      "2020y 23 sentyabr",
+      "2021 y 23 oktyabr",
+      "2019-yil, 6-sentyabr",
+      "1997 y 29 avgust"
+    ],
+    correctAnswer: "2019-yil, 6-sentyabr"
+  },
+  {
+    question: "Tayanch kompetensiyalar necha turga bo'linishini aniqlang",
+    options: ["6 ta", "5 ta", "4 ta", "7 ta"],
+    correctAnswer: "6 ta"
+  },
+  {
+    question: "Umumiy o'rta ta'lim nechanchi sinflarni o'z ichiga oladi",
+    options: ["1-9 sinflarni", "1-11-sinflarni", "1-8 sinflarni", "5-9 sinflarni"],
+    correctAnswer: "1-11-sinflarni"
+  },
+  {
+    question: "Standart so'zining ma'nosi nima",
+    options: ["me'yor, namuna, andoza", "shakl me'yo", "muhr tamg'a", "tafovut andoza"],
+    correctAnswer: "me'yor, namuna, andoza"
+  },
+  {
+    question: "O'quvchilar haftaning 3 kunida kollejda nazariy bilim oladi, 3 kunida korxonaning o'zida, biriktirilgan usta, master rahbarligida ish o'rnida amaliyot o'taydi. Bu qaysi davlatda",
+    options: ["Amerikada", "Fransiyada", "Germaniyada", "Koreyada"],
+    correctAnswer: "Germaniyada"
+  },
+  {
+    question: "Ta'lim to'grisidagi qonunda 'Dual ta'lim' nechanchi moddada ko'rsatilgan?",
+    options: ["29 modda", "17 modda", "21 modda", "65 modda"],
+    correctAnswer: "17 modda"
+  },
+  {
+    question: "Qonun hujjatlari asosida maktabdagi ta'lim jarayonini tartibga soluvchi hujjat nima deb ataladi?",
+    options: [
+      "Ta'lim dasturi",
+      "O'quv rejasi",
+      "O'qituvchilarga oid ko'rsatmalar",
+      "Maktabning ichki tartib-qoidalari"
+    ],
+    correctAnswer: "O'quv rejasi"
+  },
+  {
+    question: "Maktabda ta'lim sifatini ta'minlash uchun mas'ul bo'lgan tashkilot qanday nomlanadi?",
+    options: [
+      "Maktab kengashi",
+      "Ta'lim inspeksiyasi",
+      "Ta'lim tizimini nazorat qilish qo'mitasi",
+      "Maktab direktori"
+    ],
+    correctAnswer: "Ta'lim inspeksiyasi"
+  },
+  {
+    question: "O'quv dasturi va o'quv rejalari orasidagi farq nima?",
+    options: [
+      "O'quv dasturi uzoq muddatli maqsadlarni ko'zlaydi, o'quv reja esa qisqa muddatli",
+      "O'quv dasturi faqat maktab ichidagi faoliyatni o'z ichiga oladi",
+      "O'quv reja faqat ma'ruzalar va darslar bilan cheklangan",
+      "O'quv dasturi faqat darsliklardan iborat"
+    ],
+    correctAnswer: "O'quv dasturi uzoq muddatli maqsadlarni ko'zlaydi, o'quv reja esa qisqa muddatli"
   }
 ];
 
@@ -3043,6 +3193,7 @@ function updateTimer() {
 
     document.getElementById('timer').textContent = formattedTime;
 }
+
 
 
 
