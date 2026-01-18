@@ -1455,6 +1455,716 @@ const questionsData = [
     question: "Qaysi tabiiy omil - geomorfologik agent sifatida tog' jinslariga ta'sir etib, yemirish, uchirish va yotqizish kabi ishlarni bajaradi",
     options: ["yomg'ir", "qor", "shamol", "quyosh"],
     correctAnswer: "shamol"
+  },
+  {
+    question: "Nurash jarayoni- o'zining xususiyatiga ko'ra qanday turlarga bo'linadi",
+    options: ["biologic, kimyoviy", "fizik, biologik", "kimyoviy,fizik", "fizik,kimyoviy,organic"],
+    correctAnswer: "fizik,kimyoviy,organic"
+  },
+  {
+    question: "Planetamizdagi suv qobig'ini nima deb aytiladi",
+    options: ["gidrosfera", "litosfera", "troposfera", "atmosfera"],
+    correctAnswer: "gidrosfera"
+  },
+  {
+    question: "Inson tomonidan qazilgan suv yo'li nima deb ataladi.",
+    options: ["kanal", "ariq", "daryo", "soy"],
+    correctAnswer: "kanal"
+  },
+  {
+    question: "Tabiatda bir vaqtning ozida qattiq, suyuq va gaz (bug') holida uchraydigan yagona mineral bu...",
+    options: ["tuproq", "havo", "suv", "yomg'ir"],
+    correctAnswer: "suv"
+  },
+  {
+    question: "Suv boshqa elementlardan asosan nimasi bilan ajralib turadi",
+    options: [
+      "eruvchanlik xususiyati (uglerod kislorod)",
+      "yoqiluvchanlik xususiyati (kislarod)",
+      "uchuvchanlik xususiyati (azot)",
+      "yonish xususiyati(geliy)"
+    ],
+    correctAnswer: "eruvchanlik xususiyati (uglerod kislorod)"
+  },
+  {
+    question: "Bir qancha miqdordagi suv nimaning ta'sirida bug'ga aylanib, yuqoriga, ko'tariladi va to'yinib kondensiyalanib, necha ming km yog'in bo'lib yana yerga tushadi",
+    options: [
+      "oy nuri ta'sirida, yer yuzasidan har yili 120 ming km suv",
+      "quyosh nuri ta'sirida, yer yuzasidan har yili 820 ming km suv",
+      "quyosh nuri ta'sirida, yer yuzasidan har yili 610 ming km suv",
+      "quyosh nuri ta'sirida, yer yuzasidan har yili 520 ming km suv"
+    ],
+    correctAnswer: "quyosh nuri ta'sirida, yer yuzasidan har yili 520 ming km suv"
+  },
+  {
+    question: "Suvning to'xtovsiz aylanishi natijasida ko'l suvlarining suvi qancha vaqtda aylanib yangilanib turadi",
+    options: ["20 yilda bir marta", "5 yilda bir marta", "10 yilda bir marta", "7 yilda bir marta"],
+    correctAnswer: "10 yilda bir marta"
+  },
+  {
+    question: "Suvning to'xtovsiz aylanishi natijasida daryo suvlarining suvi qancha vaqtda aylanib yangilanib turadi.",
+    options: ["9 sutkada", "12 sutkada", "13 sutkada", "15 sutkada"],
+    correctAnswer: "12 sutkada"
+  },
+  {
+    question: "18 yoshdan 50 yoshgacha bo'lgan kishilarning organizmida gavda og'irligining necha foizi suv tashkil qiladi.",
+    options: ["61 %", "66%", "62%", "60%"],
+    correctAnswer: "61 %"
+  },
+  {
+    question: "Odam organizimida suv miqdorining necha foiz (% ) ga kamayishi esa kishini halok qilishga olib keladi",
+    options: ["22-54%", "20-25%", "20-21%", "23-27 %"],
+    correctAnswer: "20-25%"
+  },
+  {
+    question: "Odam organizmi o'z hayotiy jarayonlarini amalga oshirishi uchun sutkasida o'rtacha qancha suvni qabul qiladi va uni o'z to'qimalaridan o'tkazib, chiqarib yuboradi",
+    options: ["2.3litr", "2.6litr", "2.5 litr", "3.5 litr"],
+    correctAnswer: "2.5 litr"
+  },
+  {
+    question: "Integratsiya so'zining ma'nosi nima.",
+    options: ["kesishtirish", "ayrish", "birlashtirish", "o'shish"],
+    correctAnswer: "birlashtirish"
+  },
+  {
+    question: "Qaysi yulduz joyidan siljimaydi.",
+    options: ["yer", "osmon", "quyosh", "oy"],
+    correctAnswer: "quyosh"
+  },
+  {
+    question: "Xaritada baland tog'lar qanday rangda bo'ladi.",
+    options: ["och yashil", "toq sariq", "to'q qizil", "to'q jigarrang"],
+    correctAnswer: "to'q jigarrang"
+  },
+  {
+    question: "O'zbekiston Respublikasi shimoliy qismida qaysi davlat bilan chegardosh",
+    options: ["Qirg'iziston", "Turkmaniston", "Qozog'iston", "Tojikiston"],
+    correctAnswer: "Qozog'iston"
+  },
+  {
+    question: "O'zbekiston Respublikasi sharqiy qismida qaysi davlat bilan chegardosh",
+    options: ["Qoraqolpog'iston", "Qirg'iziston", "O'zbekiston", "Turkmaniston"],
+    correctAnswer: "Qirg'iziston"
+  },
+  {
+    question: "O'zbekiston Respublikasi janubiy-g'arbiy qismida qaysi davlat bilan chegardosh.",
+    options: ["Turkmaniston", "Tojikiston", "Afg'oniston", "Qirg'iziston"],
+    correctAnswer: "Turkmaniston"
+  },
+  {
+    question: "Afg'on shamoli asosan qaysi viloyatda sodir bo'ladi.",
+    options: ["Sirdaryo", "Buxoro", "Surxondaryo", "Navoiy"],
+    correctAnswer: "Surxondaryo"
+  },
+  {
+    question: "Qo'qon shamoli qaysi faslda sodir bo'ladi.",
+    options: ["yoz --kuz", "bahor -kuz", "kuz-qish", "bahor-qish"],
+    correctAnswer: "bahor -kuz"
+  },
+  {
+    question: "Yozda O'zbekistonga, qaysi tomondan shamollar ko'proq esadi",
+    options: ["shimoldan va g'arbdan", "g'arbdan va sharqa", "shimoldan va sharqa", "janubdan sharqqa"],
+    correctAnswer: "shimoldan va g'arbdan"
+  },
+  {
+    question: "O'zbekistonning tekislik qismi bir yilda necha kun yog'inli bo'ladi.",
+    options: ["35-40 kun", "45-50 kun", "48-50 kun", "43-50 km"],
+    correctAnswer: "35-40 kun"
+  },
+  {
+    question: "O'zbekiston janubida quyosh necha soat nur sochib turadi.",
+    options: [
+      "4000-31000soat",
+      "2000-31000 soat",
+      "3000-33000 soat",
+      "3000-3100 soat"
+    ],
+    correctAnswer: "3000-3100 soat"
+  },
+  {
+    question: "Quyosh nuri qaysi faslda tik tushadi.",
+    options: ["yozda", "kuzda", "bahorda", "qishda"],
+    correctAnswer: "yozda"
+  },
+  {
+    question: "Tabiiy ravishda to'plangan suv havzasi nima deb ataladi.",
+    options: ["daryo", "hovuz", "cho'l", "ko'l"],
+    correctAnswer: "ko'l"
+  },
+  {
+    question: "Suv tabiatda necha xil ko'rinishda uchraydi.",
+    options: ["4-xil", "3-xil", "1-xil", "5-xil"],
+    correctAnswer: "3-xil"
+  },
+  {
+    question: "Planetamizni o'rab olgan havo qobig'iga nima deyiladi.",
+    options: ["Biosfera", "Litosfera", "Atmosfera", "Gidrosfera"],
+    correctAnswer: "Atmosfera"
+  },
+  {
+    question: "Atmosferaning qalinligi necha ming km ga yetadi.",
+    options: ["3000 km", "400 km", "500 km", "560 km"],
+    correctAnswer: "3000 km"
+  },
+  {
+    question: "Atmosferaning tarkibida necha foiz kislorod mavjud.",
+    options: ["20.95%", "19.23%", "20.10%", "23.10%"],
+    correctAnswer: "20.95%"
+  },
+  {
+    question: "Atmosferaning tarkibida necha foiz argon gazi mavjud",
+    options: ["0.85%", "0.90%", "0.80%", "0.93%"],
+    correctAnswer: "0.93%"
+  },
+  {
+    question: "Yonuvchi foydali qazilmalarga nimalar kiradi.",
+    options: ["Ko'mir,neft,gaz,torf", "Gaz, ko'mir", "Neft ,gaz", "Ko'mir ,gaz,neft"],
+    correctAnswer: "Ko'mir,neft,gaz,torf"
+  },
+  {
+    question: "Havoning ma'lum vaqt va joydagi holatiga nima deyiladi",
+    options: ["iqlim", "havo aylanishi", "ob-havo", "relyef"],
+    correctAnswer: "ob-havo"
+  },
+  {
+    question: "Amudaryoning uzunligi qancha.",
+    options: ["2500 km", "2400 km", "2700 km", "2300 km"],
+    correctAnswer: "2400 km"
+  },
+  {
+    question: "Eng kichik sayyora",
+    options: ["Merkuriy", "Yupiter", "Neptun", "Uran"],
+    correctAnswer: "Merkuriy"
+  },
+  {
+    question: "Havoda yonib, yorug' iz qoldiradigan osmon jismi nima deb ataladi.",
+    options: ["Yulduz", "Oy", "Meteorit", "Quyosh"],
+    correctAnswer: "Meteorit"
+  },
+  {
+    question: "Fevral oyi 29 kunlik bo'lgan yil nomi nima deyiladi.",
+    options: ["Oddiy yili", "Murakkab yil", "Takroriy yili", "Kabisa yili"],
+    correctAnswer: "Kabisa yili"
+  },
+  {
+    question: "Tabiiy boyliklar necha turga bo'linadi.",
+    options: ["3 ta", "5 ta", "1 ta", "4 ta"],
+    correctAnswer: "3 ta"
+  },
+  {
+    question: "Agar havoda chang va g'ubor, bo'lmaganda edi, inson ming yil umr ko'rgan bo'lar edi», - degan mashhur ibora kimga tegishli?",
+    options: ["Al-Xorazmiy", "Termiziy", "Buxoriy", "Ibn Sino"],
+    correctAnswer: "Ibn Sino"
+  },
+  {
+    question: "Tabiatshunoslik darslariga qo'yiladigan umumiy talablarga qaysila kiradi?",
+    options: [
+      "Ta'lim-tarbiyaviy, didaktik, psixologik, gigiyenik",
+      "Gigiyenik, umumiy, ijtimoiy, falsafiy",
+      "Jismoniy, huquiy, umumiy, didaktik",
+      "Didaktik, ijtimoiy, umumiy, gigiyenik"
+    ],
+    correctAnswer: "Ta'lim-tarbiyaviy, didaktik, psixologik, gigiyenik"
+  },
+  {
+    question: "Jonsiz tabiiy tarqatma materiallarga nimalar kiradi?",
+    options: [
+      "O'simliklar, granit, kvarts",
+      "Hayvonlar, temir, osh tuzi, loy",
+      "Loy, qum, osh tuzi, temir, cho'yan, toshko'mir",
+      "Hayvonlar va o'simliklar"
+    ],
+    correctAnswer: "Loy, qum, osh tuzi, temir, cho'yan, toshko'mir"
+  },
+  {
+    question: "Yer bilan osmonning tutashgan joyi nima",
+    options: ["Ufq", "Tog'lar deyiladi", "Tekisliklar", "Osmon"],
+    correctAnswer: "Ufq"
+  },
+  {
+    question: "Tabiatshunoslik darslarida kuzatish qaysi metodlar guruhiga kiradi?",
+    options: [
+      "Tabiatshunoslikning og'zaki metodi",
+      "Tabiatshunoslikning amaliy metodi",
+      "Tabiatshunoslikning ko'rgazmali metodi",
+      "Tabiatshunoslikning nazariy metodi"
+    ],
+    correctAnswer: "Tabiatshunoslikning ko'rgazmali metodi"
+  },
+  {
+    question: "Ekologiyaning tarifi qaysi qatorda to'g'ri ko'rsatilgan?",
+    options: [
+      "atmosferaning tozaligi",
+      "organizmlarning yashash sharoiti",
+      "tirik organizmlarning yashash sharoiti yoki tashqi muhit bilan o'zaro munosabati tashqi muxitning o'zaro munosabati",
+      "organizimlarning tashqi muhitga ta'siri"
+    ],
+    correctAnswer: "tirik organizmlarning yashash sharoiti yoki tashqi muhit bilan o'zaro munosabati tashqi muxitning o'zaro munosabati"
+  },
+  {
+    question: "....... fikricha inson tabiatning eng go'zal mavjudotidir. Inson tabiatga ergashib, hamma narsani bilib olishi mumkin. Bu kimning fikri?",
+    options: ["Z.M.Bobur", "Ibn Sino", "Ya. A.Komenskiy", "Abu Nasr Farobiy"],
+    correctAnswer: "Ya. A.Komenskiy"
+  },
+  {
+    question: "Ekologiya tushunchasi qaysi so'zdan olingan , nima degan ma'noni bildiradi?",
+    options: [
+      "Lotincha «eko» --- makon va «logos» --- ilm",
+      "Ruscha «eko» --- uy, makon va «logos» --- dars",
+      "Inglizcha «eko» --- borliq, makon va «logos» --- fan",
+      "Yunoncha «eko» --- tabiat, makon va «logos» --- fan"
+    ],
+    correctAnswer: "Yunoncha «eko» --- tabiat, makon va «logos» --- fan"
+  },
+  {
+    question: "Ekologiya so'zining tarifi qaysi qatorda to'g'ri ko'rsatilgan?",
+    options: [
+      "tirik organizmlaming yashash sharoiti yoki tashqi muhit bilan o'zaro munosabati tashqi muhitning o'zaro munosabati",
+      "atmosferaning tozaligi",
+      "organizmlaming yashash sharoiti",
+      "organizimlaming tashqi muhitga ta'siri"
+    ],
+    correctAnswer: "tirik organizmlaming yashash sharoiti yoki tashqi muhit bilan o'zaro munosabati tashqi muhitning o'zaro munosabati"
+  },
+  {
+    question: "'Bilginki daryoning ko'zlari yoshlansa uning boshiga ham kulfat tushgan bo'ladi' bu so'zlar qaysi allomaning fikri?",
+    options: [
+      "Ekologiya tushunchasini fanga birinchi bo'lib kim tomondan kiritilgan.",
+      "Ernest Gekkel",
+      "Aristotel",
+      "Platon",
+      "Al-Xorazmiy",
+      "Muxammad Muso-al Xorazmiy",
+      "Abu Rayxon Beruniy, Abu-Nasr Forobiy, Alisher Navoiy",
+      "Ya.A.Komenskiy",
+      "Ibn Sino"
+    ],
+    correctAnswer: "Ibn Sino"
+  },
+  {
+    question: "Beruniy 'Saydana' deb nomlangan asarida necha-xil dori darmonlarni tavsiflagan?",
+    options: ["1116 ta", "1106 ta", "1016 ta", "1006 ta"],
+    correctAnswer: "1116 ta"
+  },
+  {
+    question: "Qaysi olimning 'Qadimgi avlodlardan qolgan yodgorliklar' va 'Hindiston' asarlarida o'simlik va hayvonlarning tuzilishi hamda ularning tashqi muhit bilan o'zaro aloqasi haqida ham qiziqarli ma'lumotlar keltirilgan?",
+    options: [
+      "Abu Rayhon Beruniy",
+      "Muhammad al Xorazmiy",
+      "Abu Ali Ibn sino",
+      "Abu Nasr Farobiy"
+    ],
+    correctAnswer: "Abu Rayhon Beruniy"
+  },
+  {
+    question: "Qaysi buyuk mutafakkirning yirik qomusiy olim sifatidatanilgan. Uning 450 ta asari mavjud boiib, bizgacha 240 tasi yetib kelgan?.",
+    options: [
+      "Abu Ali Ibn sino",
+      "Muhammad al Xorazmiy",
+      "Abu Rayhon Beruniy",
+      "Abu Nasr Farobiy"
+    ],
+    correctAnswer: "Abu Ali Ibn sino"
+  },
+  {
+    question: "Organizmlarning muhitga moslashishi nima deyiladi?",
+    options: ["Adaptatsiya", "Yevribiont", "Stress", "Gomeostaz"],
+    correctAnswer: "Adaptatsiya"
+  },
+  {
+    question: "O'simliklarning hayotiy shakllari",
+    options: [
+      "Daraxt, buta, chala buta, o't o'simliklar",
+      "Bir yillik, ikki yillik va ko'p yillik",
+      "Chala buta, suv o'simliklari, yaylovlar",
+      "Cho'l, tropik, tundra zonasi o'simliklari"
+    ],
+    correctAnswer: "Daraxt, buta, chala buta, o't o'simliklar"
+  },
+  {
+    question: "O'zbekiston Respublikasi 'Osimliklar dunyosini muhofaza qilish va undan foydalanish to'g'risida' qonuni qachon qabul qilingan?",
+    options: ["1997 yil", "1999 yil", "2001 yil", "2006 yil"],
+    correctAnswer: "1997 yil"
+  },
+  {
+    question: "Ekologik omillar nechta guruhga bo'linadi.",
+    options: ["3 ta", "4 ta", "2 ta", "7 ta"],
+    correctAnswer: "3 ta"
+  },
+  {
+    question: "Antropogen faktorlar bu ...",
+    options: [
+      "kishilarning o'simliklarga, o'simliklar qoplamiga va ular yashab turgan muhit sharoitiga turli shakldagi tasir faktorlari kiradi.",
+      "tirik organizmlarni yashash muhitini o'zgartiradigan yoki u laming o'zlariga tasir etadigan inson faoliyatining ko'rinishi",
+      "jonsiz va jonli tabiatni o'zaro munosabatlari va tasiri",
+      "organizmlarni bir biriga bevosita yoki bilvosita turli xil ta'siri"
+    ],
+    correctAnswer: "kishilarning o'simliklarga, o'simliklar qoplamiga va ular yashab turgan muhit sharoitiga turli shakldagi tasir faktorlari kiradi."
+  },
+  {
+    question: "Og'ir metallarni tuproqqa avtomobil gazlari bilan kelib tushishi tiriklikka qanday salbiy ta'sir qiladi?",
+    options: [
+      "Tuproqni ifloslantiradi",
+      "O'simliklarga tasir qiladi",
+      "Hayvonlarga tasir qiladi",
+      "Tuproqdagi mikroorganizmlami o'ldirib tabiatdagi moddalarni aylanma harakatini to'xtatadi, o'simlik va hayvonlarga tasir qiladi"
+    ],
+    correctAnswer: "Tuproqdagi mikroorganizmlami o'ldirib tabiatdagi moddalarni aylanma harakatini to'xtatadi, o'simlik va hayvonlarga tasir qiladi"
+  },
+  {
+    question: "Atmosfera qatlamlarining to'g'ri tartibini ajrating.",
+    options: [
+      "stratosfera, mezosfera, troposfera, ekzosfera, termosfera",
+      "troposfera, stratosfera, mezosfera, termosfera, ekzosfera",
+      "stratosfera, troposfera, termosfera, ekzosfera",
+      "ekzosfera, termosfera, stratosfera, mezosfera, troposfera"
+    ],
+    correctAnswer: "troposfera, stratosfera, mezosfera, termosfera, ekzosfera"
+  },
+  {
+    question: "Uzun kun o'simliklari qayerda uchraydi?",
+    options: ["Ekvator", "Shimoliy rayonlarda", "O'rtacha kenglikda rayonlarda", "Janubiy rayonlarda"],
+    correctAnswer: "Ekvator"
+  },
+  {
+    question: "Ya.A.Komenskiy 'Onalar maktabi' da nechta fandan ma'lumot olishni tavsiya etgan?",
+    options: ["18 ta", "17 ta", "12 ta", "13 ta"],
+    correctAnswer: "18 ta"
+  },
+  {
+    question: ".....--- tabiat jismlari va hodisalarning tabiiy sharoitlarda maqsadga yo'nalgan va bevosita shu hodisalarni borishiga aralashmagan holda sezgilan bilan qabul qilib olishdir",
+    options: ["kuzatish", "taqqoslash", "qiyoslash", "solishtirish"],
+    correctAnswer: "kuzatish"
+  },
+  {
+    question: "Kuzatishlar davomiyligi va xarakteri bo'yicha qanday turlari bo'lishi mumkin?",
+    options: [
+      "qisqa muddatli va uzoq muddatli",
+      "harakatli va harakatsiz",
+      "uzlukli va uzluksiz",
+      "solishtirma va qiyosiy"
+    ],
+    correctAnswer: "qisqa muddatli va uzoq muddatli"
+  },
+  {
+    question: "O'simlik va hayvonlami o'sishi hamda rivojlanishi, tabiatdagi mavsumiy o'zgarishlar haqidagi bilimlarning jamg'arilishi uchun kuzatishning ancha murakkabroq turi --- ...dan foydalaniladi?",
+    options: ["uzoq muddatli", "harakatli va harakatsiz", "uzlukli va uzluksiz", "solishtirma va qiyosiy"],
+    correctAnswer: "uzoq muddatli"
+  },
+  {
+    question: "Qanday kuzatishlar mazmuniga ko'ra murakkab bo'lganligi sababli, maktabgacha ta'limda o'rta hamda katta guruxlarda olib boriladi?",
+    options: [
+      "Solishtirma va uzoq muddatli",
+      "Harakatli va harakatsiz",
+      "Uzlukli va uzluksiz",
+      "solishtirma va qiyosiy"
+    ],
+    correctAnswer: "Solishtirma va uzoq muddatli"
+  },
+  {
+    question: "Kuzatishning bu turi bolalarda tabiat hodisalarini analiz qilish, ayrim ma'lumotlarni qiyoslash, soddaroq xulosalar chiqarish ko'nikmalarining hosil bolishiga yordam beradi",
+    options: [
+      "Solishtirma va uzoq muddatli",
+      "Harakatli va harakatsiz",
+      "Uzlukli va uzluksiz",
+      "solishtirma va qiyosiy"
+    ],
+    correctAnswer: "Solishtirma va uzoq muddatli"
+  },
+  {
+    question: "Tarqatma materiallardan foydalanib kuzatish qaysimetodga kiradi?",
+    options: ["ko'rgazmali metod", "hikoya,mehnat", "amaliy metod", "suhbat, rasm"],
+    correctAnswer: "ko'rgazmali metod"
+  },
+  {
+    question: "O'yin, mehnat, kundalik kuzatish qaysi metodga kiradi?",
+    options: ["amaliy metod", "oddiy tajribalar", "ko'rgazmali metod", "suhbatli, og'zaki nutq"],
+    correctAnswer: "amaliy metod"
+  },
+  {
+    question: "Ekskursiya turlari",
+    options: [
+      "tabiatshunoslik va qishloq xo'jalik",
+      "hayvonot bogiga, mevazorga",
+      "Dalaga, paxta maydonlariga",
+      "qishloq xo'jaligi va dala maydonlariga"
+    ],
+    correctAnswer: "tabiatshunoslik va qishloq xo'jalik"
+  },
+  {
+    question: "Predmetli o'yinlarga qaysilar kiradi?",
+    options: [
+      "domino, loto, zoologiya, botanika",
+      "stol bosma o'yinlari, zoologiya lotosi.",
+      "chumchuq va avtomobil, tovuq jo 'jalari bilan",
+      "ajoyib xaltacha, uy hayvonlari solingan rasmlar"
+    ],
+    correctAnswer: "domino, loto, zoologiya, botanika"
+  },
+  {
+    question: "Stol bosma o'yinlari qaysilar?",
+    options: [
+      "zoologiya lotosi, botanika lotosi, yilning turli fasli, mevalar, o'simliklar",
+      "Domino, predmetli rasm, turli xil ildizlar",
+      "tabiat materiallaridan turli narsalar yasash",
+      "zoologiya lotosi, hayvonlar rasmi, o'simliklar rasmi"
+    ],
+    correctAnswer: "zoologiya lotosi, botanika lotosi, yilning turli fasli, mevalar, o'simliklar"
+  },
+  {
+    question: "Ekskursiyada qaysi metod qo'llaniladi?",
+    options: [
+      "kuzatish, og'zaki",
+      "mashgulot, og'zaki",
+      "hikoya, suhbat, amaliy.",
+      "sayr, ekskursiya, mehnat"
+    ],
+    correctAnswer: "kuzatish, og'zaki"
+  },
+  {
+    question: "Yer maydonchasiga tavsiya etilgan gullar qaysilar?",
+    options: [
+      "gulbeor, qo'qongul, astra, romashka, piyongul, gulsapsar, lola",
+      "astra, atirgul, piyongul, gvozdika, gladiolus, gulbiyorqo'qongul, lola",
+      "atirgul, gulbiyor, lola, astra, gulbiyor",
+      "romashka, atirgul, gulbiyor, lola, astra"
+    ],
+    correctAnswer: "gulbeor, qo'qongul, astra, romashka, piyongul, gulsapsar, lola"
+  },
+  {
+    question: "Qisqa muddatli kuzatushga qaysilar kiradi?",
+    options: [
+      "qor yog'ishi, yomg'ir yog'ishi, kamalakni kuzatish",
+      "qushlar va gullami kuzatish",
+      "erta bahorgi gullami va kuzgi qushlami kuzatish qoryog' ish, yomg'ir yog'ishi, erta bahorgi gullarni kuzatish.",
+      "yomg'ir yog'ishi, hashorotlarni, qushlarni kuzatish"
+    ],
+    correctAnswer: "qor yog'ishi, yomg'ir yog'ishi, kamalakni kuzatish"
+  },
+  {
+    question: "Yerning ichki qismidagi erigan suyuq jisimlar hamda turli gazlarni yoriqlar orqali yeryuzaga otilib chiqishga nima deyiladi.",
+    options: ["ko'lmak", "botqoqlik", "vulqon", "chuqurlik"],
+    correctAnswer: "vulqon"
+  },
+  {
+    question: "Qaysi modda eng ko'p issiqlik qabul qiluvchi hisoblanadi.",
+    options: ["vulqon", "suv", "olov", "quruqlik"],
+    correctAnswer: "suv"
+  },
+  {
+    question: "Quruqlikda suv havzasini hosil qilgan va dengiz bilan bevosita tutashmagan chuqurliklariga nima deb ataladi.",
+    options: ["daryo", "soy", "ko'l", "dengiz"],
+    correctAnswer: "ko'l"
+  },
+  {
+    question: "Tabiiy chuqurlikda xarakat qiladigan suv oqimiga nima deyiladi.",
+    options: ["ko'lmak", "soy", "dengiz", "daryo"],
+    correctAnswer: "daryo"
+  },
+  {
+    question: "O'zbekistonda qor tog'larda necha kun saqlanib turadi.",
+    options: ["85-100 kun", "90-100 kun", "95-100 kun", "75-100 kun"],
+    correctAnswer: "90-100 kun"
+  },
+  {
+    question: "O'zbekistonga yog'inlar asosan qaysi okeandan keladi.",
+    options: ["Atlantika", "Hind", "Tinch", "Shimoliy"],
+    correctAnswer: "Atlantika"
+  },
+  {
+    question: "O'zbekistonda eng kam yillik yog'in miqdori qaysi xududlarda yog'adi",
+    options: [
+      "Ustyurt, Norin daryo, Qizilqum",
+      "Ustyurt, Quyi Amudaryo, Qizilqum",
+      "Qizilqum, Norin daryo, Ustyurt",
+      "Ustyurt, Norin"
+    ],
+    correctAnswer: "Ustyurt, Norin daryo, Qizilqum"
+  },
+  {
+    question: "Oyning massasi yernikidan necha marta kam.",
+    options: ["80.4 marta", "81,3 marta", "52.1 marta", "63.1 marta"],
+    correctAnswer: "81,3 marta"
+  },
+  {
+    question: "Eng katta sayyora qaysi.",
+    options: ["yupiter", "neptun", "uran", "merkuriy"],
+    correctAnswer: "yupiter"
+  },
+  {
+    question: "Sirdaryoning uzunligi qancha.",
+    options: ["1122km", "2312km", "2412 km", "2212 km"],
+    correctAnswer: "2212 km"
+  },
+  {
+    question: "Ibn Sino qaysi ijtimoiy-falsafiy asarida tabiatga mehr-muruvvatli bo'lgan yoshlarni tarbiyalash kerak degan fikrlarni ilgari surgan?",
+    options: ["Kitob bash shifo", "Tib qonunlari", "Kitob ul-qulanch", "Donishnoma"],
+    correctAnswer: "Donishnoma"
+  },
+  {
+    question: "Tabiatshunoslikni o'qitishda bolalarni har tomonlama tarbiyalashning mazmuni va metodlarini ochib beruvchi pedagogik fan nima deb nomlanadi?",
+    options: [
+      "Tabiatshunoslikning zamonaviy konseptsiyasi",
+      "Tabiatshunoslik asoslari",
+      "Tabiatshunoslik",
+      "Tabiatshunoslik o'qitish metodikasi"
+    ],
+    correctAnswer: "Tabiatshunoslik o'qitish metodikasi"
+  },
+  {
+    question: "Tabiatshunoslikda ko'rgazmali o'quv qurollari necha turga bo'linadi?",
+    options: [
+      "tabiiy jismlar va suratlar",
+      "sathli, hajmli, tabiiy",
+      "sathli va hajmli",
+      "sahifali va hajmli"
+    ],
+    correctAnswer: "tabiiy jismlar va suratlar"
+  },
+  {
+    question: "Tabiatshunoslik darslarida muammoli vaziyatda masalani hal qilishning birinchi bosqichi nimadan iborat?",
+    options: [
+      "masalani to'g'ri anglab olishdan iborat",
+      "masala shartini yechishdan iborat",
+      "masalaga yaqindan yondoshishdan iborat",
+      "masala shartini, uni yechish uchun nima ma'lumligini aniqlashdan iborat"
+    ],
+    correctAnswer: "masala shartini, uni yechish uchun nima ma'lumligini aniqlashdan iborat"
+  },
+  {
+    question: "Tabiatshunoslik darslarida hikoyaga qo'yiladigan talablarning ketma-ketligini to'g'ri belgilang:",
+    options: [
+      "ravonlik, ketma-ketlik, izchillik, taqqoslash, tasvirlash",
+      "tasvirlash, rovonlik, ketma-ketlik taqqoslash, izchillik",
+      "tasvirlash, taqqoslash, izchillik rovonlik, ketma-ketlik,",
+      "tasvirlash, taqqoslash, rovonlik, ketma-ketlik, izchillik"
+    ],
+    correctAnswer: "ravonlik, ketma-ketlik, izchillik, taqqoslash, tasvirlash"
+  },
+  {
+    question: "O'quvchilarning jonli tabiat burchagidagi mehnat turlari nimalardan iborat?",
+    options: [
+      "gullarni sug'orish va barglarini artish",
+      "gullarni sug'orish va barglarini artish, hayvonlarni boqish va toza joyda saqlash",
+      "hayvonlarni boqish va toza joyda saqlash",
+      "maktab uchastkasida ishlash, hayvonlarni boqish va toza joyda saqlash"
+    ],
+    correctAnswer: "gullarni sug'orish va barglarini artish, hayvonlarni boqish va toza joyda saqlash"
+  },
+  {
+    question: "Tabiatshunoslik va atrofimizdagi olam predmeti qanday fanlarga zamin yaratadi?",
+    options: ["Astronomiya , geometriya", "Kimyo, algebra", "Georgafiya, lingvistika", "Botanika, geografiya"],
+    correctAnswer: "Botanika, geografiya"
+  },
+  {
+    question: "Dunyoda shunday ko'l borki, 'bu ko'lning suviga ruchka yoki qalamni botirib bemalol qog'ozga yozsa ham bo'ladi. Bu yozuvni esa keyin hech qachon o'chirib bo'lmaydi'. Ushbu ko'l qaysi davlatda.",
+    options: ["Misrda", "Amerikada", "Afrikada", "Jazoirda"],
+    correctAnswer: "Jazoirda"
+  },
+  {
+    question: "Dunyoda «Tabiatshunoslik» fanining rivojlanishiga turtki bo'lgan asarlar",
+    options: [
+      "Yevklidning «Boshlanish»i va Ptolomeyning «Buyuk qurilish» asarlari;",
+      "Sofiya Kovalevskaya, Mariya Kyuri tabiatshunoslikka oid asarlari;",
+      "Abu Ali ibn Sino va Zahiriddin Muhammad Bobur tabiat va uning tirik mavjudotlariga doir asarlari",
+      "Abu Nasr Farobiy 'Fozil odamlar shahri' asari"
+    ],
+    correctAnswer: "Yevklidning «Boshlanish»i va Ptolomeyning «Buyuk qurilish» asarlari;"
+  },
+  {
+    question: "Talabalarni tabiatshunoslik muammolariga bag'ishlangan maqolalar, adabiyotlarga taqriz, annotatsiya yozishga o'rgatish bu....",
+    options: ["fanning asosiy maqsadi", "fanning asosiy vazifasi.", "fanning asosiy prinsiplari", "fanning asosiy predmeti"],
+    correctAnswer: "fanning asosiy vazifasi."
+  },
+  {
+    question: "Yerlarni o'zlashtirishda 'Birinchi yili undan hech narsa olmasinlar, ikkinchi yili raiyat o'z roziligi bilan berganni olsinlar, uchinchi yili esa qonun-qoidaga muvofiq xiroj yig'ilsin' deb aytilgan g'oya muallifi kim va asari nomi.",
+    options: [
+      "Abu Ali Ibn Sino 'Hindiston'",
+      "Al Beruniy 'Kobul devoni'",
+      "Soxibqiron Amir Temur 'Temur tuziklari'.",
+      "Yusuf xos Xojib 'Qutadg'u bilib'"
+    ],
+    correctAnswer: "Soxibqiron Amir Temur 'Temur tuziklari'."
+  },
+  {
+    question: "Quyosh atmosferasi qaysi qatlamalardan iborat",
+    options: [
+      "xromosfera, quyosh toji",
+      "quyosh toji",
+      "fotosfera, xromosfera, quyosh toji",
+      "fotosfera"
+    ],
+    correctAnswer: "fotosfera, xromosfera, quyosh toji"
+  },
+  {
+    question: "Ichki guruh sayyoralarga qaysi sayyoralar kiradi",
+    options: [
+      "Yer, Uran, Pluton",
+      "Merkuriy,Venera, Yer, Mars.",
+      "Mars, Neptun,Oy",
+      "Neptun,Yer, Venera"
+    ],
+    correctAnswer: "Merkuriy,Venera, Yer, Mars."
+  },
+  {
+    question: "Yerning geosferalari qaysi javobda ko'rsatilgan",
+    options: [
+      "suv qatlami-gidrosfera, qattiq qatlam-litosfera",
+      "troposfera-xavo qatlami, suv qatlami-gidrosfera, qattiq qatlam-litosfera",
+      "yerning tirik organizmlari",
+      "havo qatlami-atmasfera, suv qatlami-gidrosfera, qattiq qatlam-litosfera"
+    ],
+    correctAnswer: "havo qatlami-atmasfera, suv qatlami-gidrosfera, qattiq qatlam-litosfera"
+  },
+  {
+    question: "«Tabiatshunoslik» fani rivojlanishi 1 bosqichi qaysi davrlarni o'z ichiga oladi",
+    options: [
+      "2-bosqich eramizgacha bo'lgan 5-6 asrlargacha",
+      "1-bosqich eramizgacha bo'lgan 8-6 asrlargacha",
+      "3-bosqich eramizgacha bo'lgan 4-6 asrlargacha",
+      "2-bosqich eramizgacha bo'lgan 8-5 asrgacha"
+    ],
+    correctAnswer: "1-bosqich eramizgacha bo'lgan 8-6 asrlargacha"
+  },
+  {
+    question: "Qadimgi grek olimlaridan Pifagor va Eratosfen tabiatshunoslik bo'yicha kashfiyotlaridan nimalarni aniqladi",
+    options: [
+      "Eratosfen esa yerning radiusini aniqladi",
+      "Aristotel g'arb va sharqning tomonlarini belgiladi",
+      "Pifagor dunyoning sharsimon ekanligini, Eratosfen esa yerning radiusini aniqladi",
+      "Empedokl janubiy va shimoliy tomonini aniqladi"
+    ],
+    correctAnswer: "Pifagor dunyoning sharsimon ekanligini, Eratosfen esa yerning radiusini aniqladi"
+  },
+  {
+    question: "Tabiatshunoslikning nechta bosh yo'nalishi bor",
+    options: ["5ta", "7ta", "3ta", "6ta"],
+    correctAnswer: "3ta"
+  },
+  {
+    question: "«Tabiatshunoslik» fani rivojlanishi 3-bosqichi qaysi davrlarni o'z ichiga oladi",
+    options: ["9-11 asr", "5-7 asr", "8-12 asr", "4-6 asr"],
+    correctAnswer: "8-12 asr"
+  },
+  {
+    question: "«Tabiatshunoslik» fani rivojlanishining qaysi bosqichda 'tabiatni o'rganuvchilar' atamasi kirib keldi",
+    options: [
+      "5 bosqich 16-15 asrlar",
+      "2 bosqich 14-16 asrlar",
+      "4 bosqich 15-18 asrlar",
+      "3 bosqich 19-20 asrlar"
+    ],
+    correctAnswer: "4 bosqich 15-18 asrlar"
+  },
+  {
+    question: "«Tabiatshunoslik» fani rivojlanishining qaysi bosqichida hujayra kashf qilindi",
+    options: [
+      "4 bosqich XV-XVIII asrlar",
+      "5 bosqich XIX asrlar",
+      "5 bosqich XVI-XVII asrlar",
+      "3 bosqich X-XIV asrlar"
+    ],
+    correctAnswer: "5 bosqich XVI-XVII asrlar"
   }
 ];
 
@@ -1818,6 +2528,7 @@ function updateTimer() {
 
     document.getElementById('timer').textContent = formattedTime;
 }
+
 
 
 
