@@ -1330,6 +1330,131 @@ const questionsData = [
     question: "Qaysi grek olimi yerning dumaloqligini isbotlaydigan geografik karta tuzdi",
     options: ["Ptolomey", "Aristotel", "Empedokl", "Gippokrat"],
     correctAnswer: "Ptolomey"
+  },
+  {
+    question: "Yer shari o'z o'qi atrofida qaysi tomonga aylanadi",
+    options: ["Shimoldan janubga", "Janubdan sharqqa", "Janubdan shimolga", "G'arbdan sharqqa"],
+    correctAnswer: "G'arbdan sharqqa"
+  },
+  {
+    question: "Sutka deb nimaga aytiladi",
+    options: [
+      "Yerning gorizontal xarakati",
+      "Vaqtning qaytmas xususiyati",
+      "Yerning o'z o'qi atrofida aylanib chiqish vaqti",
+      "Yerning aylanma harakati"
+    ],
+    correctAnswer: "Yerning o'z o'qi atrofida aylanib chiqish vaqti"
+  },
+  {
+    question: "Yer o'z o'qi atrofida qancha vaqtda bir marta to'liq aylanib chiqadi",
+    options: [
+      "21 soat 36 minut 8 sekund",
+      "13 soat 51 minut 9 sekund",
+      "23 soat 56 minut 4 sekund",
+      "14 soat 30 minut 6 sekunt"
+    ],
+    correctAnswer: "23 soat 56 minut 4 sekund"
+  },
+  {
+    question: "Yer sharida qanday qutblar bor",
+    options: ["Shimoldan janubga", "Janubdan sharqqa", "G'arbiy va sharqiy", "Shimoliy va janubiy"],
+    correctAnswer: "Shimoliy va janubiy"
+  },
+  {
+    question: "Meridian chiziqlar deb nimaga aytiladi",
+    options: [
+      "ikki qutbning parallel chizig'i",
+      "Ikki qutbni birlashtiruvchi chiziqlar",
+      "ikki qutbning birlashmaydigan chizig'i",
+      "ikki qutbning ajraladigan chizig'i"
+    ],
+    correctAnswer: "Ikki qutbni birlashtiruvchi chiziqlar"
+  },
+  {
+    question: "Oy Yer atrofida qaysi tomonga qarab aylanadi",
+    options: ["Shimoldan janubga", "G'arbdan sharqqa", "Janubdan sharqqa", "Sharqdan shimolga"],
+    correctAnswer: "G'arbdan sharqqa"
+  },
+  {
+    question: "Quyosh sistemasidagi yirik osmon jismlari nima deb ataladi",
+    options: ["sayyoralar", "yulduzlar", "sun'iy yo'ldoshlar", "oy"],
+    correctAnswer: "sayyoralar"
+  },
+  {
+    question: "Sayyoralar atrofida doimiy aylanib turadigan osmon jismlari nima deb ataladi",
+    options: ["yulduzlar", "sun'iy yo'ldoshlar", "tabiiy yo'ldoshlar", "sayyoralar"],
+    correctAnswer: "tabiiy yo'ldoshlar"
+  },
+  {
+    question: "Yer sharining kichraytirilgan tasviri ya'ni modeli nima deb ataladi",
+    options: ["rebus", "yulduz", "quyosh", "globus"],
+    correctAnswer: "globus"
+  },
+  {
+    question: "Yer sharining yadrosi asosan qaysi moddalardan tashkil topgan",
+    options: ["Temir, nikel", "Rux, mis", "Temir, uran", "Uran, temir"],
+    correctAnswer: "Temir, nikel"
+  },
+  {
+    question: "To'rt fasl ham o'z vaqtida bo'ladigan iqlim mintaqasi bu..",
+    options: ["Kontinental iqlim", "Issiq iqlim", "Mo'tadil iqlim", "subtropik iqlim"],
+    correctAnswer: "Mo'tadil iqlim"
+  },
+  {
+    question: "Quyosh sistemasida Yer sayyorasi nechanchi o'rinda turadi",
+    options: ["5 o'rinda", "6 o'rinda", "3 o'rinda", "4 o'rinda"],
+    correctAnswer: "3 o'rinda"
+  },
+  {
+    question: "Tekislikning yuzasi dengiz sathidan balandligi 200 m gacha bo'lsa qanday nom bilan ataladi",
+    options: ["Past tekislik", "Yaylov", "Dala", "Chuqurlik"],
+    correctAnswer: "Past tekislik"
+  },
+  {
+    question: "Dengiz sathidan 500 m dan yuqori bo'lgan relef shaklga qaysi relef shakli kiradi",
+    options: ["Yassitog'lik", "Yaylov", "Dala", "Past tekislik"],
+    correctAnswer: "Yassitog'lik"
+  },
+  {
+    question: "Qatorasiga tizilib ketgan tutash tog'lar nima deb ataladi",
+    options: ["Yassitog'lik", "Past tekislik", "tog' tizmasi", "Dala"],
+    correctAnswer: "tog' tizmasi"
+  },
+  {
+    question: "Zilzilaning 1 ball xolati qanday bo'ladi",
+    options: [
+      "Yer tebranishini sezgir asboblar sezadi",
+      "Juda kuchsiz,tinch turgan kishilar ba'zan biladi.",
+      "Kuchsiz,tinch turgan kishilar ko'pchiligi sezishi mumkin",
+      "Kuchli tebranish holati"
+    ],
+    correctAnswer: "Yer tebranishini sezgir asboblar sezadi"
+  },
+  {
+    question: "Zilzilaning 4 ball xolati qanday bo'ladi",
+    options: [
+      "Kuchsiz,tinch turgan kishilar ko'pchiligi sezishi mumkin",
+      "Yer tebranishini sezgir asboblar sezadi",
+      "Kuchli kishilar sezadi",
+      "O'rtacha kuchga ega bo'lib,deyarli hamma sezadi. Deraza oynalari,eshik dirillaydi"
+    ],
+    correctAnswer: "O'rtacha kuchga ega bo'lib,deyarli hamma sezadi. Deraza oynalari,eshik dirillaydi"
+  },
+  {
+    question: "Zilzila necha ball sodir bo'lganda butun binolar qulaydi",
+    options: ["6 ball", "12 ball", "11 ball", "13 ball"],
+    correctAnswer: "11 ball"
+  },
+  {
+    question: "Temperaturaning o'zgarib turishi oqibatida qanday nurash ro'y beradi",
+    options: ["kimyoviy qulash", "biologik portlash", "fizik portlash", "fizik nurash"],
+    correctAnswer: "fizik nurash"
+  },
+  {
+    question: "Qaysi tabiiy omil - geomorfologik agent sifatida tog' jinslariga ta'sir etib, yemirish, uchirish va yotqizish kabi ishlarni bajaradi",
+    options: ["yomg'ir", "qor", "shamol", "quyosh"],
+    correctAnswer: "shamol"
   }
 ];
 
@@ -1693,6 +1818,7 @@ function updateTimer() {
 
     document.getElementById('timer').textContent = formattedTime;
 }
+
 
 
 
